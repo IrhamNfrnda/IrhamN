@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamnfrnda&label=Profile%20views&color=0e75b6&style=flat" alt="IrhamNfrnda" /> </p>
 
 ## 📖 About me
-- 💻 I'm a JavaScript junkie - I get my kicks from writing clean and elegant code in this versatile language.
+<!-- - 💻 I'm a JavaScript junkie - I get my kicks from writing clean and elegant code in this versatile language. -->
 - 🚀 I'm on a mission to become a coding maestro and master the art of software engineering.
 - 📫 Want to connect and collaborate? Shoot me an email at **irhamnfrnda@gmail.com** and let's make some magic happen.
 
