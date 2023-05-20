@@ -1,4 +1,7 @@
 <h1 align="center">Hello World! Irham Nofrianda here</h1>
+ <a href="https://www.linkedin.com/in/irhamnfrnda">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
+</a>
 <h3 align="center">I'm a Digital Renaissance person who can design, develop, and deploy full-stack applications.</h3>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irhamnfrnda&label=Profile%20views&color=0e75b6&style=flat" alt="IrhamNfrnda" /> </p>
