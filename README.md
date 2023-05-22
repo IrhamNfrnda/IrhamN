@@ -9,6 +9,23 @@
 - 📫 Want to connect and collaborate? Shoot me an email at **irhamnfrnda@gmail.com** and let's make some magic happen.
 - Let's forge a professional alliance on LinkedIn! You can find me at   <a href="https://www.linkedin.com/in/irhamnfrnda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>. Connect with me and let's embark on a journey of collaboration and mutual growth!
 
+**Languages and Tools:**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/vercel/vercel.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png"></code>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irhamnfrnda&show_icons=true&locale=en&layout=compact" alt="IrhamNfrnda" /></p>
 
