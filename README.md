@@ -19,8 +19,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/expressjs/expressjs.png"></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/reactjs/reactjs.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png"></code>
