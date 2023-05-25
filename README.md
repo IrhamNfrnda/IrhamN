@@ -7,7 +7,7 @@
 - 💻 I'm a JavaScript junkie - I get my kicks from writing clean and elegant code in this versatile language.
 - 🚀 I'm on a mission to become a coding maestro and master the art of software engineering.
 - 📫 Want to connect and collaborate? Shoot me an email at **irhamnfrnda@gmail.com** and let's make some magic happen.
-- Let's forge a professional alliance on LinkedIn! You can find me at   <a href="https://www.linkedin.com/in/irhamnfrnda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>. Connect with me and let's embark on a journey of collaboration and mutual growth!
+- ⛓ Let's forge a professional alliance on LinkedIn! You can find me at   <a href="https://www.linkedin.com/in/irhamnfrnda"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>. Connect with me and let's embark on a journey of collaboration and mutual growth!
 
 **Languages and Tools:**
 
