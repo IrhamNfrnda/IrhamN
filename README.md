@@ -32,7 +32,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=irhamnfrnda&show_icons=true&locale=en&layout=compact" alt="IrhamNfrnda" /></p>
 
-<br>
 
 ## 🔥 My contribution streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=IrhamNfrnda&theme=transparent" alt="IrhamNfrnda" /></p>
